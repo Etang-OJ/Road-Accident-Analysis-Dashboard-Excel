@@ -1,5 +1,4 @@
-<img width="217" height="232" alt="image" src="https://github.com/user-attachments/assets/0905928d-34db-469d-b9a4-a7782f1b9f3c" />
-
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/b8197aea-8f3a-483b-8ac2-3243d9227274" />
 
 # Road Accident Analysis Dashboard
 
@@ -8,6 +7,7 @@ The dashboard visualizes accident severity, weather effects, speed limits, vehic
 
 ## Download the Dashboard
 Click below to download the full excel dashboard:
+
 https://1drv.ms/x/c/ae566deb580e1532/EaKN56FXzUpEqT4y-ixJS5gBOKKyfjVWfo-VOj3vsMHoew?e=WjVb6c
 
 ## Project Overview
